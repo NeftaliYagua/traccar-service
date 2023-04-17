@@ -1,0 +1,9 @@
+{
+  "id": "org.traccar.webosclient.service",
+  "description": "HelloWorld Service",
+  "services": [
+    {
+      "name": "org.traccar.webosclient.service"
+    }
+  ]
+}
